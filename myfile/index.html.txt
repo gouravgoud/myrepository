@@ -1,0 +1,36 @@
+
+<html>
+<head>
+<title>Table Tags : Layout</title>
+</head>
+<body>
+
+<table >
+
+<tr height="25%" >
+<td width = "50" colspan = "2"><h1>test</h></td>
+<td width = "50" colspan = "2"></td>
+
+</tr>
+
+<tr height="25%" >
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td rowspan="2" ></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td  colsapn = "4"></td>
+</tr>
+
+</table>
+
+</body>
+</html>
