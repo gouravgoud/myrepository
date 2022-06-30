@@ -4,7 +4,7 @@
 <title>Table Tags : Layout</title>
 </head>
 <body>
- my name is ravindra goud
+
 <table >
 
 <tr height="25%" >
